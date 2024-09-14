@@ -1,0 +1,4 @@
+Number of anomalies detected: 378
+Precision: 0.5052910052910053
+Recall: 0.010113846968493514
+F1 Score: 0.01983076364013913
